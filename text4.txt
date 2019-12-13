@@ -1,0 +1,18 @@
+{
+int sum;
+int product;
+int num;
+int a;
+num=0;
+sum=0;
+product=1;
+while(num<10)
+{
+read a;
+sum=sum+a;
+product=product*a;
+num=num+1;
+}
+write sum;
+write product;
+}
